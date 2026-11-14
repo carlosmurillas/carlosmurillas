@@ -9,5 +9,5 @@ I'm Carlos, a Data Science and Computer Science enthusiast working toward becomi
 
 ### Other technologies I know about
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,cpp,js,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,r,mysql" />
 </p>
