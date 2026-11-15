@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Carlos, a Data Science and Computer Science enthusiast working toward becoming an AI/ML Engineer. My main focus is applied AI and deep learning.
 
